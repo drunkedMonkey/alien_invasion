@@ -1,3 +1,3 @@
-# ALien Invasion
+# Alien Invasion
 
-This is a game for learn python
+This is a game to learn python
